@@ -10,7 +10,7 @@ public class ValidacaoJava {
         
         //definir os atributos da tela
         janela.setDefaultCloseOperation(janela.EXIT_ON_CLOSE);
-        janela.setSize(660, 400);
+        janela.setSize(660, 500);
         janela.add(painel);
         janela.setVisible(true);
         }
